@@ -11,4 +11,4 @@ Nowadays, electrical accidents to the line man are increasing, while repairing t
 | Team Member | Kuldeep Maurya | kuldeepmaurya444@gmail.com | B. N. College of Engineering & Technology, Lucknow |
 | Team Member | Noor Azam Ali | azamali01768@gmail.com | B. N. College of Engineering & Technology, Lucknow |
 | Team Member | Ayush Soni | ayushsoni106@gmail.com | B. N. College of Engineering & Technology, Lucknow |
-| Team Member | Ashish Goswami | ashishgoswami69y@gmil.com | B. N. College of Engineering & Technology, Lucknow |
+| Team Member | Ashish Goswami | ashishgoswami69y@gmail.com | B. N. College of Engineering & Technology, Lucknow |
