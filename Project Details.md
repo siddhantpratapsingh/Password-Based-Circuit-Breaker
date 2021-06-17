@@ -24,8 +24,8 @@ Keypad is connected to PORT2 of the microcontroller. The four Row Pins of the Ke
 this keypad, we need to enter the password. Four Lamps (acting as Electrical Lines) are connected to P0.0 to P0.3 through the 4 – Channel Relay Module. These are used to
 indicate circuit breaker state (Light ON – Line Active and Light OFF – Line Not Active).
 If you are not using the Relay Module, then you need to use 4 BC547 NPN Transistors (along with its current limiting base Resistor) in order to drive the relays. 
-# WARNING: Be extremely careful when wiring the AC load to the Relay and mains supply.
-##Technology Stack: -
+### WARNING: Be extremely careful when wiring the AC load to the Relay and mains supply.
+## Technology Stack: -
 We are use 8051 Microcontroller, 8051development board and keyboard or sensor. User give a input through keyboard or finger print to the micro controller according to input
 microcontroller work perform. LCD display are use to display password or pin. Light bulb are use as a load. Embedded System is use to perform one or a few predefined task
 usually with very specific requirements.
