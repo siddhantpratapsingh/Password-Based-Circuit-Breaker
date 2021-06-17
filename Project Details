@@ -1,21 +1,4 @@
-# Idea/Problem statement: - Problem to ensure line man safety with Password based Circuit Breaker.
-# Description of problem statement: - Nowadays, electrical accidents to the line man are increasing, while repairing the electrical lines due to the lack of communication between the electrical substation and maintenance staff. This project gives a solution to this problem to
-ensure line man safety by the use of Password based circuit breaker. In this proposed system,
-the control (ON/OFF) of the electrical lines lies with line man. This project is arranged in such a
-way that maintenance staff or line man has to enter the password to ON/OFF the electrical line.
-The password based circuit breaker control system is a system that access only
-specified password to control the circuit breaker. Here, there is also a provision of changing the
-password.
-Now, if there is any fault in electrical line, then the line man will switch off the
-power supply to the line by entering password and comfortably repair the electrical line, and
-after coming to the substation line man switch on the supply to the particular line by entering the
-password. Separate passwords are assigned for each electrical lines.
-3. Case Study: -
-this project is arranged in such a way that maintenance staff or line Man to
-enter the password or use finger on sensor to ON/OFF the electrical line.
-A matrix keypad is interfaced to the microcontroller to enter the password while a relay
-driver IC is used to switch ON / OFF the loads through relays. The complete circuit is built
-with on board power supply.
-Now if there is any fault in electrical line then line man switch OFF the power
-supply to line by entering password and comfortably repair the electrical line and after coming the
-substation line man switch ON the supply to the particular line by entering password.
+**Idea/Problem statement**I : - Problem to ensure line man safety with Password based Circuit Breaker.
+# Description of problem statement: - Nowadays, electrical accidents to the line man are increasing, while repairing the electrical lines due to the lack of communication between the electrical substation and maintenance staff. This project gives a solution to this problem to ensure line man safety by the use of Password based circuit breaker. In this proposed system, the control (ON/OFF) of the electrical lines lies with line man. This project is arranged in such a way that maintenance staff or line man has to enter the password to ON/OFF the electrical line. The password based circuit breaker control system is a system that access only specified password to control the circuit breaker. Here, there is also a provision of changing the password. Now, if there is any fault in electrical line, then the line man will switch off the power supply to the line by entering password and comfortably repair the electrical line, and after coming to the substation line man switch on the supply to the particular line by entering the password. Separate passwords are assigned for each electrical lines.
+# Case Study: -
+this project is arranged in such a way that maintenance staff or line Man to enter the password or use finger on sensor to ON/OFF the electrical line. A matrix keypad is interfaced to the microcontroller to enter the password while a relay driver IC is used to switch ON / OFF the loads through relays. The complete circuit is built with on board power supply. Now if there is any fault in electrical line then line man switch OFF the power supply to line by entering password and comfortably repair the electrical line and after coming the substation line man switch ON the supply to the particular line by entering password.
